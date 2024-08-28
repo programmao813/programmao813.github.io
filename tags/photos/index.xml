@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Photos on Maoo的車庫</title>
+    <link>https://programmao813.github.io/tags/photos/</link>
+    <description>Recent content in Photos on Maoo的車庫</description>
+    <generator>Hugo</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Wed, 28 Aug 2024 10:19:47 +0800</lastBuildDate>
+    <atom:link href="https://programmao813.github.io/tags/photos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>全職業角色卡</title>
+      <link>https://programmao813.github.io/blog/post-2/</link>
+      <pubDate>Wed, 28 Aug 2024 10:19:47 +0800</pubDate>
+      <guid>https://programmao813.github.io/blog/post-2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>全職業傳授技能</title>
+      <link>https://programmao813.github.io/blog/post-1/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      <guid>https://programmao813.github.io/blog/post-1/</guid>
+      <description>冒險家 Emphasis Or leave it empty and use the link text itself.</description>
+    </item>
+  </channel>
+</rss>
